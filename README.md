@@ -1,4 +1,4 @@
-# 🚀 K Malleswar Reddy - Portfolio
+# 🚀 POOJITHA POTHA- Portfolio
 
 <div align="center">
   <h2>
