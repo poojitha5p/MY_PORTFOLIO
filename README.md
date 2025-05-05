@@ -2,7 +2,7 @@
 
 <div align="center">
   <h2>
-    <a href="https://poojitha5p.github.io/MY_PORTFOLIO/" target="_blank" rel="noopener noreferrer">
+    <a [href="https://poojitha5p.github.io/MY_PORTFOLIO/](https://poojitha5p.github.io/MY_PORTFOLIO/)" target="_blank" rel="noopener noreferrer">
   🔗 LIVE DEMO
 </a>
 
@@ -57,5 +57,5 @@ This is my personal portfolio website showcasing my skills, projects, and experi
 ---
 
 <div align="center">
-  <p>Made with ❤️ by K Malleswar Reddy</p>
+  <p>Made with ❤️ by Poojitha Potha</p>
 </div>
